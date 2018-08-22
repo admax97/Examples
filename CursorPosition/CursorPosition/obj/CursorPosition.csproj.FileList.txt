@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CursorPosition.frmMain.resources
+obj\Debug\CursorPosition.Properties.Resources.resources
+obj\Debug\CursorPosition.csproj.GenerateResource.Cache
+bin\Debug\CursorPosition.exe
+bin\Debug\CursorPosition.pdb
+obj\Debug\CursorPosition.exe
+obj\Debug\CursorPosition.pdb
